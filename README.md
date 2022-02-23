@@ -1,1 +1,1 @@
-运行前须解压resource/chrome92.7z
+运行前须解压resources/chrome92.7z
